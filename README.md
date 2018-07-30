@@ -1,2 +1,2 @@
 # classes
-Python basic programs using python
+Python basic programs using python (classes)
